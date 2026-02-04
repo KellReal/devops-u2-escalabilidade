@@ -1,1 +1,0 @@
-# devops-u2-escalabilidade
